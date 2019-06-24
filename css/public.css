@@ -1,0 +1,82 @@
+.top{
+	width: 1366px;
+	height: 69px;
+	background: #1b1b1b url(../img/home/logo.png) 121px 18px no-repeat;
+}
+.top p{
+	height: 28px;
+	line-height: 28px;
+	margin-top: 13px;
+	margin-left: 550px;
+	float: left;
+}
+.top p a{
+	color: #fff;
+	padding: 6px 11px 7px;
+	border-radius: 5px;
+	border: 1px solid #1b1b1b;
+	display: inline-block;
+	margin-right: 48px;
+	color: #939393;
+	font-size: 14px;
+	font-weight: bold;
+}
+.top p a:hover{
+	color: #fff;
+	border: 1px solid #7b7b7b;
+}
+
+.footer{
+	height: 223px;
+	width: 1137px;
+	margin: 0 auto;
+	position: relative;
+}
+#email{
+	width: 35px;
+	height: 26px;
+	position: absolute;
+	top: 81px;
+	left: 546px;
+	background: url(../img/public/tiny_logo.png) 0 0 no-repeat;
+}
+#four1{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	top: 127px;
+	left: 487px;
+	background: url(../img/public/tiny_logo.png) -44px 0 no-repeat;
+}
+#four2{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	top: 127px;
+	left: 529px;
+	background: url(../img/public/tiny_logo.png) -75px 0 no-repeat;
+}
+#four3{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	top: 127px;
+	left: 571px;
+	background: url(../img/public/tiny_logo.png) -106px 0 no-repeat;
+}
+#four4{
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	top: 127px;
+	left: 610px;
+	background: url(../img/public/tiny_logo.png) -135px 0 no-repeat;
+}
+.p1{
+	width: 1137px;
+	text-align: center;
+	color: #adadad;
+	position: absolute;
+	left: 0;
+	bottom: 23px;
+}

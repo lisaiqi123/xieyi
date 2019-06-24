@@ -1,0 +1,60 @@
+.banner{
+	width: 1366px;
+	height: 585px;
+	background-color: #1b1b1b;
+	position: relative;
+	overflow: hidden;
+}
+.bigVideo{
+	width: 1132px;
+	height: 585px;
+	position: absolute;
+	top: 0;
+	left: 117px;
+}
+.go{
+	position: absolute;
+	top: 221px;
+	left: 644px;
+	display: none;
+}
+.videoP{
+	width: 1132px;
+	height: 103px;
+	line-height: 103px;
+	position: absolute;
+	bottom: -103px;
+	left: 117px;
+	background-color: rgba(0,0,0,0.5);
+	/*display: none;*/
+}
+.videoP a{
+	font-size: 23px;
+	color: #b4b4b4;
+	padding-left: 33px;
+}
+.dls{
+	width: 1137px;
+	height: 795px;
+	margin-top: 23px;
+	margin-left: 117px;
+}
+.dls dl{
+	float: left;
+	margin-right: 5px;
+}
+.dls dl dd{
+	width: 374px;
+	height: 48px;
+	line-height: 48px;
+	font-size: 9px;
+	text-align: center;
+}
+.dls dl dt{
+	position: relative;
+}
+.stop{
+	position: absolute;
+	top: 97px;
+	left: 172px;
+}

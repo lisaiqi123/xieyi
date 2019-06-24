@@ -1,0 +1,38 @@
+.main{
+	width: 1366px;
+	height: 585px;
+	background: #e3e3e3 url(../img/about/map.png) 0 0 no-repeat;
+}
+.hh{
+	font-weight: bold;
+	font-size: 17px;
+	color: #000;
+	float: left;
+	width: 108px;
+	margin-left: 173px;
+	margin-top: 107px;
+}
+.p2{
+	font-weight: bold;
+	font-size: 11px;
+	color: #716f6f;
+	float: left;
+	clear: both;
+	width: 490px;
+	line-height: 25px;
+	margin-left: 173px;
+	margin-top: 23px;
+}
+.picDiv{
+	width: 1100px;
+	height: 50px;
+	clear: both;
+	float: left;
+	margin-left: 173px;
+	margin-top: 66px;
+}
+.picDiv img{
+	float: left;
+	display: inline-block;
+	margin-right: 14px;
+}

@@ -1,0 +1,63 @@
+.main{
+	position: relative;
+}
+.banner{
+	width: 1366px;
+	height: 586px;
+	position: relative;
+	background: #000;
+}
+#bigPic{
+	width: 1366px;
+	height: 586px;
+	opacity: 0;
+}
+.banner ul{
+	position: absolute;
+	bottom: 27px;
+	width: 1366px;
+	text-align: center;
+}
+.banner ul li{
+	width: 11px;
+	height: 11px;
+	display: inline-block;
+	margin-right: 22px;
+	background-color: #fff;
+	border-radius: 5px;
+}
+.picDiv ul{
+	width: 333.5px;
+	float: left;
+}
+.picDiv ul li{
+	width: 331.5px;
+	margin: 3px 2px;
+	position: relative;
+	background: 100% 100%;
+}
+.liuImg{
+	width:100%;
+	height:100%;
+	display: block;
+}
+.hui{
+	position:absolute;
+	z-index: 1;
+	width:331.5px;
+	background-color:rgba(0,0,0,0.5);
+	display:none;
+	text-align:center;
+}
+.fangda{
+	position: fixed;
+	display: none;
+	z-index: 20;
+	background: rgba(0,0,0,0.5);
+}
+.fangdaImg{
+	padding:5px;
+	position: fixed;
+	background-color: #fff;
+	z-index: 30;
+}
